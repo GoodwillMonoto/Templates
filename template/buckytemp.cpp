@@ -6,7 +6,8 @@ template<class T, class B>
 T add(T a, B b)
 {
 	//add two numbers
-return a+b;
+
+return b+a;
 }
 
 
